@@ -1,5 +1,10 @@
 # Frontend Mentor - Profile card component
 
+## My completed version can be found [here](https://larissagrayson.github.io/Profile-Card-Component/).
+
+## This is what the final design should look like:
+
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
